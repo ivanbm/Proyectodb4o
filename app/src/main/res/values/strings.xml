@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Proyecto DB4O</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="anadir">Añadir</string>
+    <string name="editar">Editar</string>
+    <string name="msgeliminar">Se ha eliminado un album.</string>
+    <string name="tituloAnadir">Nuevo Album.</string>
+    <string name="tituloEditar">Editar Album.</string>
+    <string-array name="select_discografica">
+        <item>Parlophone</item>
+        <item>Universal Music</item>
+        <item>Virgin</item>
+        <item>Warner Music</item>
+        <item>Sony Music</item>
+        <item>EMI</item>
+        <item>Poland</item>
+        <item>India</item>
+    </string-array>
+
+
+</resources>
